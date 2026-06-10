@@ -1,4 +1,3 @@
-# ITSC-4155-003-Capstone-Project
 # Smart Task Planner
 
 ## Overview
